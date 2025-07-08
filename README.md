@@ -5,7 +5,7 @@ This project demonstrates frontend skills including state management with Contex
 
 ---
 
-## 🚀 Features
+## 🚀 Features (in process)
 
 - Product listing fetched dynamically from a public API
 - Product detail pages with rich information
