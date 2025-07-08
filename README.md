@@ -1,7 +1,5 @@
 # MyStore - React E-commerce Website
 
-![MyStore](https://ecommerce-hazel-kappa.vercel.app) <!-- Optional: add a project banner image -->
-
 A modern, responsive E-commerce web application built with React, Vite, Tailwind CSS, and React Router.  
 This project demonstrates frontend skills including state management with Context API, product listing, cart management, filtering, authentication, and checkout flow.
 
