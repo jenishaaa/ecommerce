@@ -3,6 +3,7 @@
 A modern, responsive E-commerce web application built with React, Vite, Tailwind CSS, and React Router.  
 This project demonstrates frontend skills including state management with Context API, product listing, cart management, filtering, authentication, and checkout flow.
 
+## Live Link- https://ecommerce-hazel-kappa.vercel.app
 ---
 
 ## 🚀 Features (in process)
@@ -34,4 +35,4 @@ This project demonstrates frontend skills including state management with Contex
 - Git & GitHub (Version control)
 - Vercel / GitHub Pages (Deployment)
 
-## Live Link- https://ecommerce-hazel-kappa.vercel.app
+
